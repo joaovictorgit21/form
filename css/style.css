@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgb(56, 56, 56);
+    display: block;
+}
+
+fieldset
+{
+    width: 10pc;
+    border-radius: 1.7rem;
+    color: rgb(136, 135, 135);
+}
+
+legend
+{
+    color: white;
+}
+
+#criar
+{
+    width: 20pc;
+    background-color: rgb(88, 86, 86);
+}
